@@ -1,0 +1,186 @@
+{
+  "name": "observatorio-precios-mantenimiento-web",
+  "title": "Observatorio de precios del mantenimiento web en España",
+  "description": "140 tarifas públicas de mantenimiento web de 52 proveedores con titular en España, consultadas el 17 de octubre de 2026: precio al mes sin IVA, hosting, horas incluidas y permanencia.",
+  "homepage": "https://desatranquesweb.es/observatorio-precios-mantenimiento-web/",
+  "version": "2026-10-17",
+  "created": "2026-10-17",
+  "keywords": [
+    "mantenimiento web",
+    "WordPress",
+    "precios",
+    "tarifas",
+    "España",
+    "open data"
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Desatranques WEB",
+      "path": "https://desatranquesweb.es",
+      "email": "contacto@desatranquesweb.es",
+      "role": "author"
+    }
+  ],
+  "resources": [
+    {
+      "name": "precios-mantenimiento-web",
+      "path": "data/precios-mantenimiento-web.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "proveedor",
+            "type": "string",
+            "description": "Nombre comercial del proveedor."
+          },
+          {
+            "name": "plan",
+            "type": "string",
+            "description": "Nombre del plan tal como aparece en su página."
+          },
+          {
+            "name": "segmento",
+            "type": "string",
+            "description": "Webs o tiendas online (WooCommerce, PrestaShop o «tienda online»).",
+            "constraints": {
+              "enum": [
+                "web",
+                "tienda"
+              ]
+            }
+          },
+          {
+            "name": "venta_online",
+            "type": "string",
+            "description": "¿La página dice que el plan vale para webs que venden (tienda, cursos, entradas, reservas)?",
+            "constraints": {
+              "enum": [
+                "si",
+                "no",
+                "no-indica"
+              ]
+            }
+          },
+          {
+            "name": "nivel",
+            "type": "string",
+            "description": "Nivel dentro del proveedor y segmento: el plan más barato es «basico», el más caro «avanzado»; «unico» si solo tiene uno.",
+            "constraints": {
+              "enum": [
+                "basico",
+                "intermedio",
+                "avanzado",
+                "unico"
+              ]
+            }
+          },
+          {
+            "name": "precio_mes_sin_iva_eur",
+            "type": "number",
+            "description": "Precio comparable: al mes y sin IVA, en euros (con IVA se divide entre 1,21; si es anual, entre 12)."
+          },
+          {
+            "name": "precio_publicado_eur",
+            "type": "number",
+            "description": "Importe publicado tal cual, en la periodicidad y con el IVA que diga la página."
+          },
+          {
+            "name": "periodicidad",
+            "type": "string",
+            "description": "Periodicidad del precio publicado.",
+            "constraints": {
+              "enum": [
+                "mes",
+                "año"
+              ]
+            }
+          },
+          {
+            "name": "iva_en_pagina",
+            "type": "string",
+            "description": "Si el precio publicado incluye el IVA.",
+            "constraints": {
+              "enum": [
+                "incluido",
+                "no-incluido",
+                "no-indica"
+              ]
+            }
+          },
+          {
+            "name": "hosting_incluido",
+            "type": "string",
+            "description": "Si el plan incluye el hosting.",
+            "constraints": {
+              "enum": [
+                "si",
+                "no",
+                "opcional",
+                "no-indica"
+              ]
+            }
+          },
+          {
+            "name": "horas_incluidas_mes",
+            "type": "number",
+            "description": "Horas de trabajo al mes incluidas (cambios o soporte); 0 si no incluye; vacío si no lo dice."
+          },
+          {
+            "name": "permanencia",
+            "type": "string",
+            "description": "Si exige permanencia mínima.",
+            "constraints": {
+              "enum": [
+                "si",
+                "no",
+                "no-indica"
+              ]
+            }
+          },
+          {
+            "name": "permanencia_meses",
+            "type": "integer",
+            "description": "Meses de permanencia, si la exige y lo indica."
+          },
+          {
+            "name": "tecnologia",
+            "type": "string",
+            "description": "Plataforma a la que se dirige el plan.",
+            "constraints": {
+              "enum": [
+                "wordpress",
+                "woocommerce",
+                "prestashop",
+                "web"
+              ]
+            }
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "Página de tarifas consultada."
+          },
+          {
+            "name": "fecha_consulta",
+            "type": "date",
+            "description": "Día en que se leyó la página (AAAA-MM-DD)."
+          },
+          {
+            "name": "nota",
+            "type": "string",
+            "description": "Aclaración breve («desde», alta inicial, precio por web…)."
+          }
+        ]
+      }
+    }
+  ]
+}

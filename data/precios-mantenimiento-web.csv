@@ -1,0 +1,141 @@
+proveedor,plan,segmento,venta_online,nivel,precio_mes_sin_iva_eur,precio_publicado_eur,periodicidad,iva_en_pagina,hosting_incluido,horas_incluidas_mes,permanencia,permanencia_meses,tecnologia,url,fecha_consulta,nota
+Alicante Developers,Esencial,web,no-indica,basico,50.00,50,mes,no-indica,no-indica,0,no,,wordpress,https://alicantedevelopers.com/servicios/mantenimiento-web/,2026-10-17,
+Alicante Developers,Profesional,web,no-indica,avanzado,95.00,95,mes,no-indica,no-indica,1,no,,wordpress,https://alicantedevelopers.com/servicios/mantenimiento-web/,2026-10-17,
+Alicante Developers,Tienda online,tienda,si,unico,150.00,150,mes,no-indica,no-indica,2,no,,wordpress,https://alicantedevelopers.com/servicios/mantenimiento-web/,2026-10-17,
+Ángel Vicedo,Hello,web,no,basico,49.00,49,mes,no-incluido,no-indica,0,si,3,wordpress,https://www.angelvicedo.com/mantenimiento-wordpress/,2026-10-17,
+Ángel Vicedo,Hello Plus,web,si,intermedio,119.00,119,mes,no-incluido,no-indica,1,si,6,wordpress,https://www.angelvicedo.com/mantenimiento-wordpress/,2026-10-17,
+Ángel Vicedo,Hello Ultra,web,si,avanzado,299.00,299,mes,no-incluido,no-indica,2,si,3,wordpress,https://www.angelvicedo.com/mantenimiento-wordpress/,2026-10-17,
+Axarnet,Plan S,web,no,basico,39.99,39.99,mes,no-indica,no-indica,0,no,,wordpress,https://axarnet.es/mantenimiento-wordpress,2026-10-17,
+Axarnet,Plan M,web,si,intermedio,69.99,69.99,mes,no-indica,no-indica,1,no,,wordpress,https://axarnet.es/mantenimiento-wordpress,2026-10-17,
+Axarnet,Plan L,web,si,avanzado,109.99,109.99,mes,no-indica,no-indica,2,no,,wordpress,https://axarnet.es/mantenimiento-wordpress,2026-10-17,
+Ayuda WordPress,Plan Web,web,no-indica,basico,45.00,45,mes,no-incluido,no-indica,,no,,wordpress,https://mantenimiento.ayudawp.com/,2026-10-17,
+Ayuda WordPress,Plan Premium,web,no-indica,avanzado,75.00,75,mes,no-incluido,no-indica,,no,,wordpress,https://mantenimiento.ayudawp.com/,2026-10-17,
+Ayuda WordPress,Plan Ecommerce,tienda,si,unico,95.00,95,mes,no-incluido,no-indica,,no,,woocommerce,https://mantenimiento.ayudawp.com/,2026-10-17,
+Balui Digital,Mini,web,no-indica,basico,17.00,17,mes,no-incluido,no-indica,0,no,,wordpress,https://baluidigital.es/mantenimiento-web/,2026-10-17,"Precio rebajado (antes, 37 €)."
+Balui Digital,Básico,web,no-indica,intermedio,57.00,57,mes,no-incluido,no-indica,0,no,,wordpress,https://baluidigital.es/mantenimiento-web/,2026-10-17,
+Balui Digital,Pro,web,no-indica,intermedio,97.00,97,mes,no-incluido,no-indica,1,no,,wordpress,https://baluidigital.es/mantenimiento-web/,2026-10-17,
+Balui Digital,Premium,web,si,avanzado,167.00,167,mes,no-incluido,no-indica,2,no,,wordpress,https://baluidigital.es/mantenimiento-web/,2026-10-17,
+BCN SEO Dev,Plan Esencial,tienda,si,basico,89.00,89,mes,no-indica,no-indica,1,no-indica,,prestashop,https://bcnseodev.com/servicios/mantenimiento-web/prestashop/,2026-10-17,
+BCN SEO Dev,Plan Profesional,tienda,si,intermedio,239.00,239,mes,no-indica,no-indica,3,no-indica,,prestashop,https://bcnseodev.com/servicios/mantenimiento-web/prestashop/,2026-10-17,
+BCN SEO Dev,Plan Ecommerce Pro,tienda,si,avanzado,449.00,449,mes,no-indica,no-indica,5,no-indica,,prestashop,https://bcnseodev.com/servicios/mantenimiento-web/prestashop/,2026-10-17,Precio «desde».
+Boneluv,Básico,web,no-indica,basico,79.00,79,mes,no-incluido,no,,no,,wordpress,https://boneluv.com/mantenimiento-web-wordpress/,2026-10-17,
+Boneluv,Profesional,web,no-indica,intermedio,149.00,149,mes,no-incluido,no,2,no,,wordpress,https://boneluv.com/mantenimiento-web-wordpress/,2026-10-17,
+Boneluv,Premium,web,no-indica,avanzado,249.00,249,mes,no-incluido,no,5,no,,wordpress,https://boneluv.com/mantenimiento-web-wordpress/,2026-10-17,
+Brandevs,Protección web,web,no-indica,basico,59.00,59,mes,no-indica,no-indica,,no-indica,,wordpress,https://www.brandevs.com/mantenimiento-web-wordpress/,2026-10-17,
+Brandevs,Optimización web,web,no-indica,intermedio,149.00,149,mes,no-indica,no-indica,,no-indica,,wordpress,https://www.brandevs.com/mantenimiento-web-wordpress/,2026-10-17,
+Brandevs,Optimización PRO,web,no-indica,avanzado,299.00,299,mes,no-indica,no-indica,,no-indica,,wordpress,https://www.brandevs.com/mantenimiento-web-wordpress/,2026-10-17,
+Charrúa,Plan Negocios,tienda,si,basico,249.00,249,mes,no-incluido,no,2,no-indica,,woocommerce,https://charrua.es/mantenimiento-web-wordpress/woocommerce/,2026-10-17,"Precio «desde»; con pago anual, 10 € al mes menos."
+Charrúa,Plan Negocios Pro,tienda,si,avanzado,349.00,349,mes,no-incluido,no,4,no-indica,,woocommerce,https://charrua.es/mantenimiento-web-wordpress/woocommerce/,2026-10-17,"Precio «desde»; con pago anual, 10 € al mes menos."
+Crearts,Basic,web,no-indica,basico,29.00,29,mes,no-incluido,no,0,no,,wordpress,https://crearts.es/mantenimiento-web/,2026-10-17,
+Crearts,Full,web,no-indica,intermedio,49.00,49,mes,no-incluido,no,1,no,,wordpress,https://crearts.es/mantenimiento-web/,2026-10-17,
+Crearts,Pro,web,si,avanzado,89.00,89,mes,no-incluido,no,2,no,,wordpress,https://crearts.es/mantenimiento-web/,2026-10-17,
+De Azul Turquesa,Plan A,web,si,basico,40.00,40,mes,no-incluido,no,0,no,,wordpress,https://www.deazulturquesa.com/mantenimiento-web-wordpress/,2026-10-17,
+De Azul Turquesa,Plan B,web,si,avanzado,80.00,80,mes,no-incluido,no,1,no,,wordpress,https://www.deazulturquesa.com/mantenimiento-web-wordpress/,2026-10-17,
+Desatranques WEB,Esencial,web,si,basico,39.00,39,mes,no-incluido,no,,no,,wordpress,https://desatranquesweb.es/servicios/mantenimiento/,2026-10-17,"Con pago anual, 32,50 € al mes."
+Desatranques WEB,Smart,web,si,intermedio,59.00,59,mes,no-incluido,no,,no,,wordpress,https://desatranquesweb.es/servicios/mantenimiento/,2026-10-17,"Con pago anual, 49,17 € al mes."
+Desatranques WEB,Business,web,si,avanzado,100.00,100,mes,no-incluido,no,,no,,wordpress,https://desatranquesweb.es/servicios/mantenimiento/,2026-10-17,"Con pago anual, 83,33 € al mes."
+Destaca,Corporativo,web,no-indica,basico,149.00,149,mes,no-incluido,no,1,no,,wordpress,https://www.destaca.es/,2026-10-17,
+Destaca,Negocios,web,si,intermedio,297.00,297,mes,no-incluido,no,2,no,,wordpress,https://www.destaca.es/,2026-10-17,
+Destaca,Enterprise,web,si,avanzado,597.00,597,mes,no-incluido,si,6,no,,wordpress,https://www.destaca.es/,2026-10-17,
+Digital Avenue,Básico,web,no,basico,35.00,35,mes,no-incluido,no,,no,,wordpress,https://digitalavenue.es/mantenimiento-web-wordpress/,2026-10-17,
+Digital Avenue,Avanzado,web,si,intermedio,70.00,70,mes,no-incluido,no,,no,,wordpress,https://digitalavenue.es/mantenimiento-web-wordpress/,2026-10-17,
+Digital Avenue,Premium,web,si,avanzado,135.00,135,mes,no-incluido,no,,no,,wordpress,https://digitalavenue.es/mantenimiento-web-wordpress/,2026-10-17,
+Expertos PrestaShop,Paquete Básico,tienda,si,basico,100.00,100,mes,no-indica,no-indica,1,no-indica,,prestashop,https://expertosprestashop.es/mantenimiento-tienda-online/19-soporte-y-mantenimiento-prestashop-128.html,2026-10-17,Precio contratando 12 meses.
+Expertos PrestaShop,Paquete Pro,tienda,si,intermedio,200.00,200,mes,no-indica,no-indica,3,no-indica,,prestashop,https://expertosprestashop.es/mantenimiento-tienda-online/19-soporte-y-mantenimiento-prestashop-128.html,2026-10-17,Precio contratando 12 meses.
+Expertos PrestaShop,Paquete Premium,tienda,si,avanzado,300.00,300,mes,no-indica,no-indica,5,no-indica,,prestashop,https://expertosprestashop.es/mantenimiento-tienda-online/19-soporte-y-mantenimiento-prestashop-128.html,2026-10-17,Precio contratando 12 meses.
+Gian.pro,START,web,no-indica,basico,49.90,49.9,mes,no-indica,no-indica,,no,,wordpress,https://gian.pro/mantenimiento-web-asturias/,2026-10-17,"Incluye créditos de tiempo (de 35 a 60 min cada uno), no horas."
+Gian.pro,PREMIUM,web,no-indica,intermedio,179.90,179.9,mes,no-indica,no-indica,,no,,wordpress,https://gian.pro/mantenimiento-web-asturias/,2026-10-17,"Incluye créditos de tiempo (de 35 a 60 min cada uno), no horas."
+Gian.pro,BUSINESS,web,no-indica,avanzado,289.90,289.9,mes,no-indica,no-indica,,no,,wordpress,https://gian.pro/mantenimiento-web-asturias/,2026-10-17,"Incluye créditos de tiempo (de 35 a 60 min cada uno), no horas."
+Grupo SGM,Básico,web,no-indica,basico,54.17,650,año,no-indica,no-indica,,no-indica,,wordpress,https://gruposgm.marketing/mantenimiento-web/,2026-10-17,Solo publica precio anual.
+Grupo SGM,Profesional,web,no-indica,intermedio,91.67,1100,año,no-indica,no-indica,1,no-indica,,wordpress,https://gruposgm.marketing/mantenimiento-web/,2026-10-17,Solo publica precio anual.
+Grupo SGM,Avanzado,web,no-indica,avanzado,158.33,1900,año,no-indica,si,2,no-indica,,wordpress,https://gruposgm.marketing/mantenimiento-web/,2026-10-17,Solo publica precio anual.
+Interactivate,WooCommerce Básico,tienda,si,basico,99.00,99,mes,no-incluido,no-indica,1,no,,woocommerce,https://interactivate.es/servicios/mantenimiento-woocommerce/,2026-10-17,
+Interactivate,WooCommerce Profesional,tienda,si,avanzado,189.00,189,mes,no-incluido,no-indica,3,no,,woocommerce,https://interactivate.es/servicios/mantenimiento-woocommerce/,2026-10-17,
+Jose AMD,Mantenimiento Web,web,no-indica,unico,50.00,50,mes,no-incluido,no-indica,1,no,,wordpress,https://joseamd.es/servicios/mantenimiento-web/,2026-10-17,La página no dice el periodo de las horas; se cuentan al mes.
+Josep Gonzàlez,Básico,web,no-indica,basico,54.00,54,mes,no-indica,no-indica,0,no,,wordpress,https://josepgonzalez.com/mantenimiento-wordpress/,2026-10-17,
+Josep Gonzàlez,Tranquilidad,web,si,avanzado,69.00,69,mes,no-indica,no-indica,1,no,,wordpress,https://josepgonzalez.com/mantenimiento-wordpress/,2026-10-17,
+Kebes,Mantenimiento PrestaShop Esencial,tienda,si,basico,165.00,165,mes,no-incluido,no-indica,2,si,,prestashop,https://www.kebes.es/tiendas-online/mantenimiento-prestashop/,2026-10-17,La página no dice el periodo de las horas; se cuentan al mes.
+Kebes,Mantenimiento PrestaShop Premium,tienda,si,avanzado,500.00,500,mes,no-incluido,no-indica,10,si,,prestashop,https://www.kebes.es/tiendas-online/mantenimiento-prestashop/,2026-10-17,La página no dice el periodo de las horas; se cuentan al mes.
+Lapriex Digital,Mantenimiento Web,web,no-indica,unico,55.00,55,mes,no-incluido,si,2,no,,web,https://lapriexdigital.com/mantenimiento-web-galicia/,2026-10-17,La página da también «desde 50 €»; se toma el precio de la tabla.
+Lapriex Digital,Mantenimiento Tienda online,tienda,si,unico,75.00,75,mes,no-incluido,si,2,no,,web,https://lapriexdigital.com/mantenimiento-web-galicia/,2026-10-17,
+Lapso Estudio,Mantenimiento Web WordPress (páginas personales o corporativas),web,no-indica,unico,25.00,25,mes,no-indica,no,,si,6,wordpress,https://lapsoestudio.com/mantenimiento-wordpress-en-valencia/,2026-10-17,Se contrata por periodos de 6 o 12 meses.
+Lapso Estudio,Mantenimiento Web WooCommerce (tiendas o e-learning),tienda,si,unico,50.00,50,mes,no-indica,no,,si,6,woocommerce,https://lapsoestudio.com/mantenimiento-wordpress-en-valencia/,2026-10-17,Se contrata por periodos de 6 o 12 meses.
+Mantenimiento Páginas Web Madrid,Mantenimiento,web,no-indica,unico,12.40,15,mes,incluido,no-indica,,no-indica,,wordpress,https://mantenimientopaginasweb.madrid/,2026-10-17,Incluye un cambio pequeño al mes. Sus planes con blog o SEO no se recogen.
+MantPress,Esencial,web,no,basico,29.00,29,mes,no-incluido,no,0.5,no,,wordpress,https://mantpress.com/planes/,2026-10-17,
+MantPress,Profesional,web,no,intermedio,69.00,69,mes,no-incluido,no,1,no,,wordpress,https://mantpress.com/planes/,2026-10-17,
+MantPress,Avanzado,web,si,avanzado,195.00,195,mes,no-incluido,no,3,no,,wordpress,https://mantpress.com/planes/,2026-10-17,
+MantPress,Ecommerce,tienda,si,unico,139.00,139,mes,no-incluido,no,2,no,,woocommerce,https://mantpress.com/planes/,2026-10-17,
+Mikksa Network,Esencial,tienda,si,basico,190.00,190,mes,no-incluido,no-indica,2,no,,prestashop,https://www.mikksanetwork.com/mantenimiento-prestashop/,2026-10-17,
+Mikksa Network,Profesional,tienda,si,intermedio,390.00,390,mes,no-incluido,no-indica,5,no,,prestashop,https://www.mikksanetwork.com/mantenimiento-prestashop/,2026-10-17,
+Mikksa Network,Ecommerce,tienda,si,avanzado,690.00,690,mes,no-incluido,no-indica,12,no,,prestashop,https://www.mikksanetwork.com/mantenimiento-prestashop/,2026-10-17,
+Mònica Cabaní,Mantenimiento Esencial,web,no,basico,49.00,49,mes,no-incluido,no-indica,1,no-indica,,wordpress,https://monicacabani.com/tarifas-y-precios-diseno-wordpress-barcelona/,2026-10-17,
+Mònica Cabaní,Mantenimiento Avanzado,web,si,intermedio,89.00,89,mes,no-incluido,no-indica,1,no-indica,,wordpress,https://monicacabani.com/tarifas-y-precios-diseno-wordpress-barcelona/,2026-10-17,
+Mònica Cabaní,Mantenimiento Premium,web,si,avanzado,180.00,180,mes,no-incluido,no-indica,1,no-indica,,wordpress,https://monicacabani.com/tarifas-y-precios-diseno-wordpress-barcelona/,2026-10-17,
+Necotec,Plan Business WordPress,web,no-indica,unico,60.00,60,mes,no-indica,si,2,no,,wordpress,https://necotec.es/mantenimiento-wordpress/,2026-10-17,
+Nerade,BÁSICO,web,no,basico,40.00,40,mes,no-incluido,no,1,no,,wordpress,https://nerade.com/mantenimiento-web-wordpress-profesional/,2026-10-17,"Con pago anual, 36 € al mes."
+Nerade,PRO,web,si,avanzado,75.00,75,mes,no-incluido,no,2,no,,wordpress,https://nerade.com/mantenimiento-web-wordpress-profesional/,2026-10-17,"Con pago anual, 67 € al mes."
+NetAsturias,Básica (Mensual),web,no-indica,basico,15.00,15,mes,no-indica,no-indica,1,no-indica,,wordpress,https://www.netasturias.com/mantenimiento-wordpress/,2026-10-17,
+NetAsturias,Standard (Semanal),web,no-indica,intermedio,30.00,30,mes,no-indica,no-indica,3,no-indica,,wordpress,https://www.netasturias.com/mantenimiento-wordpress/,2026-10-17,
+NetAsturias,Profesional (Diario),web,no-indica,avanzado,60.00,60,mes,no-indica,no-indica,6,no-indica,,wordpress,https://www.netasturias.com/mantenimiento-wordpress/,2026-10-17,
+Nexumark,Plan Básico (Seguridad y Soporte),web,no-indica,basico,29.00,29,mes,no-indica,no,,no-indica,,wordpress,https://nexumark.es/mantenimiento-wordpress-en-madrid/,2026-10-17,
+Nexumark,Plan Profesional (Mantenimiento + SEO Local),web,no-indica,avanzado,80.00,80,mes,no-indica,no,2,no-indica,,wordpress,https://nexumark.es/mantenimiento-wordpress-en-madrid/,2026-10-17,
+Nexumark,Plan Ecommerce (Soporte VIP + SEO Avanzado),tienda,si,unico,180.00,180,mes,no-indica,no,2,no-indica,,wordpress,https://nexumark.es/mantenimiento-wordpress-en-madrid/,2026-10-17,
+Nosolocodigo,Lite,web,no,basico,49.00,49,mes,no-indica,no,,no-indica,,wordpress,https://www.nosolocodigo.com/servicio/mantenimiento-web-wordpress-valencia-detalle/,2026-10-17,
+Nosolocodigo,Standard,web,si,intermedio,79.00,79,mes,no-indica,si,,no-indica,,wordpress,https://www.nosolocodigo.com/servicio/mantenimiento-web-wordpress-valencia-detalle/,2026-10-17,
+Nosolocodigo,Pro,web,si,avanzado,139.00,139,mes,no-indica,si,,no-indica,,wordpress,https://www.nosolocodigo.com/servicio/mantenimiento-web-wordpress-valencia-detalle/,2026-10-17,
+Omnia Estudio,Plan Minimal,web,no-indica,basico,49.00,49,mes,no-incluido,no-indica,,no-indica,,wordpress,https://omniaestudio.es/desarrollo/mantenimiento-web/,2026-10-17,
+Omnia Estudio,Plan Básico,web,no-indica,intermedio,89.00,89,mes,no-incluido,no-indica,1,no-indica,,wordpress,https://omniaestudio.es/desarrollo/mantenimiento-web/,2026-10-17,
+Omnia Estudio,Plan Intermedio,web,si,intermedio,119.00,119,mes,no-incluido,no-indica,1,no-indica,,wordpress,https://omniaestudio.es/desarrollo/mantenimiento-web/,2026-10-17,
+Omnia Estudio,Plan Pro,web,si,avanzado,199.00,199,mes,no-incluido,si,3,no-indica,,wordpress,https://omniaestudio.es/desarrollo/mantenimiento-web/,2026-10-17,
+OnSAT,Mantenimiento (webs estáticas o con pocos cambios),web,no-indica,basico,38.00,38,mes,no-indica,no-indica,,no-indica,,wordpress,https://www.onsat.es/mantenimiento-web-wordpress-en-zaragoza,2026-10-17,
+OnSAT,Mantenimiento PREMIUM,web,si,avanzado,50.00,50,mes,no-indica,no-indica,,no-indica,,wordpress,https://www.onsat.es/mantenimiento-web-wordpress-en-zaragoza,2026-10-17,
+OrbitaClick,Plan Básico,web,no-indica,basico,59.00,59,mes,no-incluido,no,,no,,wordpress,https://orbitaclick.com/mantenimiento-web/,2026-10-17,
+OrbitaClick,Plan Avanzado,web,si,intermedio,119.00,119,mes,no-incluido,no,,no,,wordpress,https://orbitaclick.com/mantenimiento-web/,2026-10-17,
+OrbitaClick,Plan Premium,web,no-indica,avanzado,199.00,199,mes,no-incluido,no,,no,,wordpress,https://orbitaclick.com/mantenimiento-web/,2026-10-17,
+Raúl López,Plan Básico,web,no-indica,basico,55.00,55,mes,no-incluido,no-indica,,no-indica,,wordpress,https://raulopez.com/soporte-mantenimiento-actualizacion-wordpress-woocommerce/,2026-10-17,
+Raúl López,Plan Profesional,web,no-indica,intermedio,75.00,75,mes,no-incluido,no-indica,,no-indica,,wordpress,https://raulopez.com/soporte-mantenimiento-actualizacion-wordpress-woocommerce/,2026-10-17,
+Raúl López,Plan Avanzado,web,si,avanzado,100.00,100,mes,no-incluido,no-indica,,no-indica,,wordpress,https://raulopez.com/soporte-mantenimiento-actualizacion-wordpress-woocommerce/,2026-10-17,
+Relevandia,Mantenimiento Esencial,web,no,basico,29.00,29,mes,no-incluido,no,0,no,,wordpress,https://relevandia.com/mantenimiento/,2026-10-17,
+Relevandia,Mantenimiento Activo,web,no-indica,avanzado,49.00,49,mes,no-incluido,no,,no,,wordpress,https://relevandia.com/mantenimiento/,2026-10-17,
+Relevandia,Mantenimiento Ecommerce,tienda,si,unico,89.00,89,mes,no-incluido,no,,no,,woocommerce,https://relevandia.com/mantenimiento/,2026-10-17,
+Simio Digital,Plan Básico,web,no-indica,basico,29.00,29,mes,no-incluido,si,,no,,wordpress,https://simiodigital.es/mantenimiento-web-wordpress/,2026-10-17,Precio «desde».
+Simio Digital,Plan Avanzado,web,si,intermedio,49.00,49,mes,no-incluido,si,,no,,wordpress,https://simiodigital.es/mantenimiento-web-wordpress/,2026-10-17,Precio «desde».
+Simio Digital,Plan Pro,web,si,avanzado,89.00,89,mes,no-incluido,si,1,no,,wordpress,https://simiodigital.es/mantenimiento-web-wordpress/,2026-10-17,Precio «desde».
+Sitelabs,Básico,web,no,basico,55.00,55,mes,no-indica,si,,no-indica,,wordpress,https://sitelabs.es/mantenimiento-web/,2026-10-17,
+Sitelabs,Mantenimiento WordPress SEO + IA,web,no,intermedio,99.00,99,mes,no-indica,si,,no-indica,,wordpress,https://sitelabs.es/mantenimiento-web/,2026-10-17,
+Sitelabs,A todo riesgo,web,si,avanzado,139.00,139,mes,no-indica,si,,no-indica,,wordpress,https://sitelabs.es/mantenimiento-web/,2026-10-17,
+Softnet Sistemas,Starter,web,no-indica,basico,59.00,59,mes,no-indica,no-indica,,no,,web,https://www.informaticaenalicante.com/mantenimiento-web-wordpress-prestashop-alicante/,2026-10-17,
+Softnet Sistemas,Professional,web,si,intermedio,99.00,99,mes,no-indica,no-indica,,no,,web,https://www.informaticaenalicante.com/mantenimiento-web-wordpress-prestashop-alicante/,2026-10-17,
+Softnet Sistemas,Premium,web,si,avanzado,199.00,199,mes,no-indica,no-indica,,no,,web,https://www.informaticaenalicante.com/mantenimiento-web-wordpress-prestashop-alicante/,2026-10-17,
+Soluciones Web 365,Mantenimiento Web Básico,web,no-indica,basico,25.00,25,mes,no-incluido,si,0.5,no,,wordpress,https://solucionesweb365.com/mantenimiento-web,2026-10-17,"Exige alojar la web en su hosting. Precio rebajado (antes, 39 €)."
+Soluciones Web 365,Mantenimiento Web Avanzado,web,no-indica,intermedio,59.00,59,mes,no-incluido,si,1,no,,wordpress,https://solucionesweb365.com/mantenimiento-web,2026-10-17,Exige alojar la web en su hosting.
+Soluciones Web 365,Mantenimiento Web Premium,web,si,avanzado,99.00,99,mes,no-incluido,si,2,no,,wordpress,https://solucionesweb365.com/mantenimiento-web,2026-10-17,Exige alojar la web en su hosting.
+SomlaWeb,Solo Actualizaciones – Tienda Online,tienda,si,basico,25.00,25,mes,no-indica,no,,no-indica,,woocommerce,https://www.somlaweb.com/es/precios-de-mantenimiento-de-tienda-online/,2026-10-17,
+SomlaWeb,Actualizaciones + Hosting – Tienda Online,tienda,si,intermedio,40.00,40,mes,no-indica,si,,no-indica,,woocommerce,https://www.somlaweb.com/es/precios-de-mantenimiento-de-tienda-online/,2026-10-17,
+SomlaWeb,Actualizaciones + Modificaciones – Tienda Online,tienda,si,intermedio,50.00,50,mes,no-indica,no,0.5,no-indica,,woocommerce,https://www.somlaweb.com/es/precios-de-mantenimiento-de-tienda-online/,2026-10-17,
+SomlaWeb,Actualizaciones + Modificaciones + Hosting – Tienda Online,tienda,si,avanzado,55.00,55,mes,no-indica,si,0.5,no-indica,,woocommerce,https://www.somlaweb.com/es/precios-de-mantenimiento-de-tienda-online/,2026-10-17,
+SoyDigital,Plan Básico,web,no,basico,19.99,19.99,mes,no-indica,no,0,no,,wordpress,https://soydigital.com/mantenimiento-wordpress/,2026-10-17,10 € al mes más si el hosting está en otra empresa.
+SoyDigital,Plan Profesional,web,no,avanzado,39.99,39.99,mes,no-indica,no,1,no,,wordpress,https://soydigital.com/mantenimiento-wordpress/,2026-10-17,10 € al mes más si el hosting está en otra empresa.
+SoyDigital,Plan WooCommerce,tienda,si,unico,69.99,69.99,mes,no-indica,no,1,no,,woocommerce,https://soydigital.com/mantenimiento-wordpress/,2026-10-17,10 € al mes más si el hosting está en otra empresa.
+Stamina Marketing,Mantenimiento web Corporativo WordPress,web,no-indica,unico,30.00,30,mes,no-indica,no-indica,2,no-indica,,wordpress,https://staminamarketing.com/mantenimiento-web-malaga/,2026-10-17,Horas de soporte técnico; la página aclara que no cubren cambios de contenido.
+Stamina Marketing,Mantenimiento eCommerce Woocommerce,tienda,si,unico,70.00,70,mes,no-indica,no-indica,2,no-indica,,woocommerce,https://staminamarketing.com/mantenimiento-web-malaga/,2026-10-17,Horas de soporte técnico; la página aclara que no cubren cambios de contenido.
+Tiendaprest,Mantenimiento PrestaShop mensual básico,tienda,si,basico,165.00,165,mes,no-incluido,no-indica,3,si,,prestashop,https://www.tiendaprest.com/servicios-ecommerce/soporte-prestashop/mantenimiento-prestashop-mensual-basico/,2026-10-17,
+Tiendaprest,Mantenimiento PrestaShop mensual Premium,tienda,si,avanzado,500.00,500,mes,no-incluido,no-indica,10,si,,prestashop,https://www.tiendaprest.com/servicios-ecommerce/soporte-prestashop/mantenimiento-prestashop-mensual-premium/,2026-10-17,
+Tu Estudio Web,Básico,web,no,basico,49.00,49,mes,no-incluido,no,1,no,,wordpress,https://tuestudioweb.com/mantenimiento-web-valencia/,2026-10-17,
+Tu Estudio Web,Profesional,web,no-indica,avanzado,89.00,89,mes,no-incluido,no,3,no,,wordpress,https://tuestudioweb.com/mantenimiento-web-valencia/,2026-10-17,
+Tu Estudio Web,Tienda,tienda,si,unico,149.00,149,mes,no-incluido,no,5,no,,wordpress,https://tuestudioweb.com/mantenimiento-web-valencia/,2026-10-17,
+Web Artesanal,Mantenimiento Básico,web,no-indica,basico,49.00,49,mes,no-indica,si,0,no,,web,https://webartesanal.com/planes-mantenimiento-web/,2026-10-17,
+Web Artesanal,Mantenimiento Profesional,web,no-indica,intermedio,79.00,79,mes,no-indica,si,1,no,,web,https://webartesanal.com/planes-mantenimiento-web/,2026-10-17,
+Web Artesanal,Mantenimiento Avanzado,web,si,avanzado,119.00,119,mes,no-indica,si,2,no,,web,https://webartesanal.com/planes-mantenimiento-web/,2026-10-17,
+Webempresa,Mantenimiento para WordPress Standard,web,no-indica,basico,20.00,240,año,no-incluido,no-indica,,no-indica,,wordpress,https://www.webempresa.com/mantenimiento-web-wordpress.html,2026-10-17,
+Webempresa,Mantenimiento para WordPress Plus,web,no-indica,avanzado,40.00,480,año,no-incluido,no-indica,1,no-indica,,wordpress,https://www.webempresa.com/mantenimiento-web-wordpress.html,2026-10-17,
+Webempresa,Mantenimiento para WooCommerce Standard,tienda,si,basico,22.50,270,año,no-incluido,no-indica,,no-indica,,woocommerce,https://www.webempresa.com/mantenimiento-web-wordpress.html,2026-10-17,
+Webempresa,Mantenimiento para WooCommerce Plus,tienda,si,avanzado,42.50,510,año,no-incluido,no-indica,1,no-indica,,woocommerce,https://www.webempresa.com/mantenimiento-web-wordpress.html,2026-10-17,
+Webkamy,Mantenimiento web WordPress,web,no-indica,unico,39.00,39,mes,no-incluido,no-indica,,no-indica,,wordpress,https://www.webkamy.es/mantenimiento-web,2026-10-17,"Precio rebajado (antes, 49 €)."
+WeJustDesign,Mantenimiento Tienda Online,tienda,si,unico,159.00,159,mes,no-incluido,no,,no,,woocommerce,https://wejustdesign.com/producto/mantenimiento-tienda-online/,2026-10-17,
+WordPress Estudio,Plan esencial (solo actualizaciones),web,no-indica,basico,20.00,20,mes,no-incluido,no-indica,0,no,,wordpress,https://wordpressestudio.com/product/mantenimiento-web-plan-basico/,2026-10-17,
+WordPress Estudio,Plan Mantenimiento Web Mensual Básico,web,no-indica,avanzado,29.00,29,mes,no-incluido,no-indica,1,no,,wordpress,https://wordpressestudio.com/product/mantenimiento-web-plan-basico/,2026-10-17,
+WP Mantenimiento,Mantenimiento Web,web,no,basico,57.00,57,mes,no-incluido,si,0,no,,wordpress,https://wpmantenimiento.com/servicios/mantenimiento-wordpress/,2026-10-17,Precio «desde».
+WP Mantenimiento,Protección Web,web,si,intermedio,77.00,77,mes,no-incluido,si,0,no,,wordpress,https://wpmantenimiento.com/servicios/mantenimiento-wordpress/,2026-10-17,Precio «desde».
+WP Mantenimiento,Optimización Web,web,si,intermedio,97.00,97,mes,no-incluido,si,0.5,no,,wordpress,https://wpmantenimiento.com/servicios/mantenimiento-wordpress/,2026-10-17,Precio «desde».
+WP Mantenimiento,Todo Incluido,web,si,avanzado,157.00,157,mes,no-incluido,si,1,no,,wordpress,https://wpmantenimiento.com/servicios/mantenimiento-wordpress/,2026-10-17,Precio «desde».

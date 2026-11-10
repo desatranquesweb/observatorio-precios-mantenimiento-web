@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cítalos así."
+type: dataset
+title: "Observatorio de precios del mantenimiento web en España"
+authors:
+  - name: "Desatranques WEB"
+    website: "https://desatranquesweb.es"
+    email: "contacto@desatranquesweb.es"
+version: "2026-10-17"
+date-released: "2026-10-17"
+license: CC-BY-4.0
+url: "https://desatranquesweb.es/observatorio-precios-mantenimiento-web/"
+repository: "https://github.com/desatranquesweb/observatorio-precios-mantenimiento-web"
+keywords:
+  - mantenimiento web
+  - WordPress
+  - precios
+  - open data
